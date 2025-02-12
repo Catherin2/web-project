@@ -1,2 +1,2 @@
 # web-project
-website built with Html, CSS, JavaScript
+website built with React.js, TypeScript, and BootStrap
